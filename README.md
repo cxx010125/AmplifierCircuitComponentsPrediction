@@ -10,10 +10,10 @@
 | 12000 | 3000.0~4000.0 | 500.0 | 15000.0 | 0.0001 | 0.0001 | 50 |
 
 ## Document Description
-code: code file
-pretrained: pretrained model
-data: data set
-requirements.txt: required dependencies for the experimental environment
+### code: code file
+### pretrained: pretrained model
+### data: data set
+### requirements.txt: required dependencies for the experimental environment
 
 ## Instructions for use
 After downloading all the files locally, you only need to unzip data_main.zip, it will automatically unzip the 5 parts into the same data folder. The file structure of the project is "code, data" in the same directory.
